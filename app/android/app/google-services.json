@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "734796966829",
+    "project_id": "skillsyncai-app",
+    "storage_bucket": "skillsyncai-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734796966829:android:f776df672b549eb3fb0f24",
+        "android_client_info": {
+          "package_name": "com.lingobreeze.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdeZY9zVEXTmd5K26CXGug7uno-NAuOVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734796966829:android:7ee0deb5da3a7d47fb0f24",
+        "android_client_info": {
+          "package_name": "com.skillsync.skillsync_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdeZY9zVEXTmd5K26CXGug7uno-NAuOVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
